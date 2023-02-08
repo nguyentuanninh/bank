@@ -16,6 +16,8 @@
 
 <img src="./public/Screenshot 2023-02-07 222225.png" style="width: 580px; margin-top: 10px; margin-bottom: 10px"/>
 
+This is a React.js/Next.js based landing page plug-n-play template, ideal for startups/companies/service providers wanting to showcase their vision in a single page sleek and modern landing page.
+
 ### Built With
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -45,8 +47,9 @@
     npm install
     ```
 3. Run project
-    ```sh
+   `sh
     npm run dev
-    ```
+    `
+   Open <http://127.0.0.1:5173/> with your favorite browser to see your project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
